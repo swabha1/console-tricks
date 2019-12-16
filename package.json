@@ -1,0 +1,20 @@
+{
+  "name": "chrome-dev-tool-tricks",
+  "version": "1.0.0",
+  "description": "chrome dev tool tricks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "chrome",
+    "dev-tool",
+    "cool-tricks"
+  ],
+  "author": "Swapnil Bhamat",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
